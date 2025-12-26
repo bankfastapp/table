@@ -60,7 +60,7 @@
     "@angular/platform-browser-dynamic": "^17.3.9",
     "ng-packagr": "^17.3.0",
     "typescript": "5.4.5",
-    "vitest": "^1.6.0"
+    "vitest": "^1.6.1"
   },
   "peerDependencies": {
     "@angular/core": ">=17"
